@@ -10,19 +10,22 @@ ya sea Arduino, Raspberry pi u otra plataforma de recoleccion de datos en mi cas
 This time I bring this IoT platform called Thinger.io, in this tutorial as NOTED create an account to register our devices 
 either Arduino, Raspberry Pi or other data collection platform in my case tests effected, with the ESP8266 01.
 
-#Introduccion Plataforma IoT Thinnger.io
+
+# Introduction Plataform IoT Thinger.io
 http://pdacontrol.blogspot.com.co/2016/07/introduccion-plataforma-iot-thinngerio.html
 
-#Introduction Plataform IoT Thinger.io
 http://pdacontrolenglish.blogspot.com.co/2016/07/introduction-plataform-iot-thingerio.html
 
 
-#Video tutorial
+#Video tutorial     Create Account Thinger.io  Crear cuenta 
 https://youtu.be/v8aDuqEJrqg
-
 
 # Plataforma Plataform IoT Thinnger.io
 ![form](https://github.com/JhonControl/Thinger.io_led/blob/master/extras/Intro.JPG)
+
+
+#Turn led ESP8266 with Thinger.io - Encender led ESP8266 con Thinger.io
+https://youtu.be/qq2VnxGIFv0
 
 
 # Mas informacion -  More Info
